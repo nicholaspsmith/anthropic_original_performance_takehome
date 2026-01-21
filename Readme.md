@@ -9,7 +9,9 @@ Now you can try to beat Claude Opus 4.5 given unlimited time!
 measured in clock cycles from the simulated machine:
 
 - **3538 cycles**: Nick's first pass (~1.5hrs)
+
 - **3342 cycles**: Nick's second pass (1hr)
+- **2818 cycles**: Nick's second pass (1:10hr)
 
 - **2164 cycles**: Claude Opus 4 after many hours in the test-time compute harness
 - **1790 cycles**: Claude Opus 4.5 in a casual Claude Code session, approximately matching the best human performance in 2 hours
